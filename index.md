@@ -4,4 +4,5 @@
 - eine Übung zum [Unterschied von "wissen" und "kennen"](https://ra-bu.github.io/wissen_vs_kennen.html)
 - eine Übung zu [Finalsätzen](https://ra-bu.github.io/Finalsaetze.html)
 - Pflege-Kurs B2 [Verbandswechsel](https://ra-bu.github.io/Verbandswechsel.html)
+- Konjunktiv I und Nominalisierung für einen [Azubi-Kurs](https://ra-bu.github.io/Pflegedokumentation.html)
 
